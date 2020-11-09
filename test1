@@ -1,1 +1,9 @@
+A warm welcome to Etherpad!
 
+This Etherpad site is built for meetings and on going distance learning during the Corona Virus outbreak.  We will keep this instance up post the outbreak for at least 3 years.
+
+If you want to roll your own Etherpad site then you can.  Etherpad is free and open source.  Https://etherpad.org -- All pads are fully exported with full fidelity so no content or data is lost in the move.
+
+If this Etherpad site doesn't have the functionality you want then see the extensive list of adaptations, plugins and modifications available: https://static.etherpad.org/plugins.html
+
+Thanks to 26LLC for providing the Hosting.  If you have a feature request, problem or bug to report please visit https://github.com/ether/etherpad-lite
